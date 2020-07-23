@@ -17,11 +17,11 @@ Description: Songclip Frontend Technical Assessment
 2. App should validate all client inputs.  If inputs are not valid, notify user.
 3. If all inputs are valid, display a different page that shows user login was successful.
 
-###Resources that are allowed:
+### Resources that are allowed:
 * You can use the internet
 
-###Resources that are not allowed:
+### Resources that are not allowed:
 * Referencing prior worked on projects
 
-###Note:
+### Note:
 Project is open ended. Styles are applied at developers discretion.  Testing is added at developers discretion.
