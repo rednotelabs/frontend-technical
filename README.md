@@ -5,10 +5,8 @@ Description: Songclip Frontend Technical Assessment
 ## Objective:
 1. Create a login page with two input fields:
   * **username:** 
-    * type: string 
     * minimum length should be 3 characters long
   * **password:** 
-    * type: string
     * minimum length of 8 characters
     * one special character must be present in password
   * **login button:**
